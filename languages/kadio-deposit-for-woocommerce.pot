@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadio Deposit for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-05 10:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3.1\n"
+"X-Domain: kadio-deposit-for-woocommerce"
+
+#: includes/class-init.php:127
+msgid " has been deactivated. Woocommerce is not installed"
+msgstr ""
+
+#: includes/class-init.php:94
+#, php-format
+msgid ""
+"%1$s requires WooCommerce version %2$s or higher. Please %3$s update "
+"WooCommerce%4$s to the latest version, or %5$s download the minimum required "
+"version %6$s"
+msgstr ""
+
+#: includes/class-init.php:79
+#, php-format
+msgid ""
+"%s requires WordPress version %s or higher. Please %s update WordPress %s"
+msgstr ""
+
+#: includes/class-wc-admin.php:140
+msgid "Amount"
+msgstr ""
+
+#: templates/deposit_remaining_amount_view.php:15
+msgid "Amount to pay : "
+msgstr ""
+
+#: includes/class-wc-admin.php:116
+msgid "Apply on shipping cost"
+msgstr ""
+
+#: includes/class-wc-admin.php:110
+msgid "Cart total amount"
+msgstr ""
+
+#: includes/class-kadio-deposit.php:156 includes/class-wc-admin.php:219
+msgid "Cash"
+msgstr ""
+
+#: includes/class-wc-admin.php:202
+msgid "Comment message"
+msgstr ""
+
+#: includes/class-wc-admin.php:65
+msgid "Deposit"
+msgstr ""
+
+#: includes/class-wc-admin.php:106
+msgid "Deposit level"
+msgstr ""
+
+#: includes/class-kadio-deposit.php:162 includes/class-wc-admin.php:227
+#, php-format
+msgid "Deposit of %s"
+msgstr ""
+
+#: templates/admin_order_deposit_data.php:9
+#: templates/deposit_display_data.php:7 templates/deposit_display_data.php:34
+msgid "Deposit paid: "
+msgstr ""
+
+#: includes/class-wc-admin.php:95
+msgid "Deposit settings"
+msgstr ""
+
+#: includes/class-controller.php:234
+msgid "Deposit to pay"
+msgstr ""
+
+#: includes/class-controller.php:232
+msgid "Deposit to pay (applied to products)"
+msgstr ""
+
+#: includes/class-controller.php:228
+msgid "Deposit to pay (applied to total cart)"
+msgstr ""
+
+#: includes/class-wc-admin.php:127
+msgid "Disable deposit when using coupon"
+msgstr ""
+
+#: includes/class-wc-admin.php:209 includes/class-wc-admin.php:217
+#: includes/class-wc-admin.php:225
+msgid "Ease of payment"
+msgstr ""
+
+#: includes/class-kadio-cart.php:36 includes/class-kadio-cart.php:56
+#: includes/class-kadio-cart.php:58
+msgid "Eligible"
+msgstr ""
+
+#: includes/class-wc-admin.php:253
+msgid "Elligible deposit"
+msgstr ""
+
+#: includes/class-wc-admin.php:173 includes/class-wc-admin.php:189
+msgid "Enable to show details"
+msgstr ""
+
+#: templates/deposit_amount_view.php:12
+msgid "Estimated deposit payment: "
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kadio.fr"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://df.kadio.fr/nos-produits/kadio-checkout-deposit-for-woocommerce/"
+msgstr ""
+
+#: includes/class-wc-admin.php:181
+msgid ""
+"If checked, customer will see deposit details in order confirmation email"
+msgstr ""
+
+#: includes/class-wc-admin.php:165
+msgid "If checked, customer will see deposit details in order details"
+msgstr ""
+
+#: includes/class-wc-admin.php:135
+msgid ""
+"If yes the deposit will be disabled when coupon is used. If no, the deposit "
+"will be applied automatically on cart total when coupon is used."
+msgstr ""
+
+#. Author of the plugin
+msgid "KADIO Consulting"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kadio Deposit for Woocommerce"
+msgstr ""
+
+#: includes/class-kadio-cart.php:58 includes/class-wc-admin.php:120
+#: includes/class-wc-admin.php:131 includes/class-wc-admin.php:256
+msgid "No"
+msgstr ""
+
+#: includes/class-wc-admin.php:281 includes/class-wc-admin.php:289
+msgctxt "Order status"
+msgid "Partial payment"
+msgstr ""
+
+#: templates/deposit_display_data.php:30 templates/deposit_display_data.php:38
+msgid "Paid: "
+msgstr ""
+
+#: includes/class-wc-admin.php:294
+#, php-format
+msgid "Partial payment <span class=\"count\"> (%s) </span>"
+msgid_plural "Partial payments <span class=\"count\"> (%s) </span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wc-admin.php:215
+msgid "Payment by cash label"
+msgstr ""
+
+#: includes/class-wc-admin.php:223
+msgid "Payment by deposit label"
+msgstr ""
+
+#: includes/class-wc-admin.php:195
+msgid "Payment comment"
+msgstr ""
+
+#: includes/class-kadio-deposit.php:150 includes/class-wc-admin.php:211
+msgid "Payment facilities"
+msgstr ""
+
+#: includes/class-wc-admin.php:207
+msgid "Payment options title"
+msgstr ""
+
+#: includes/emails/class-kdc-email-customer-remaining-payment.php:141
+msgid "Payment received for your order"
+msgstr ""
+
+#: includes/class-wc-admin.php:109
+msgid "Product"
+msgstr ""
+
+#: includes/emails/class-kdc-email-customer-remaining-payment.php:13
+msgid "Remaining Payment Completed"
+msgstr ""
+
+#: includes/emails/class-kdc-email-customer-remaining-payment.php:16
+msgid "Remaining payment completed"
+msgstr ""
+
+#: templates/admin_order_deposit_data.php:19
+#: templates/deposit_display_data.php:11 templates/deposit_display_data.php:43
+msgid "Remains to be paid: "
+msgstr ""
+
+#: includes/class-wc-admin.php:113
+msgid "Select where to apply deposit:on product or total"
+msgstr ""
+
+#: includes/class-wc-admin.php:123
+msgid "Select Yes if you want to apply deposit on shipping cost"
+msgstr ""
+
+#: includes/class-wc-admin.php:134
+msgid "Select Yes if you want to disable deposit when coupon is used"
+msgstr ""
+
+#: includes/class-wc-admin.php:154
+msgid "Set amount deposit in percentage. Default value 50%"
+msgstr ""
+
+#: includes/class-wc-admin.php:259 includes/class-wc-admin.php:260
+msgid "Set if you want to activate a deposit for this product"
+msgstr ""
+
+#: includes/class-init.php:47 includes/class-wc-admin.php:52
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-admin.php:163
+msgid "Show deposit in order details"
+msgstr ""
+
+#: includes/class-wc-admin.php:179
+msgid "Show deposit in order email"
+msgstr ""
+
+#: includes/class-wc-admin.php:199
+msgid "Show message when customer pay sold from his account"
+msgstr ""
+
+#: includes/class-init.php:185
+#, php-format
+msgid ""
+"The minimum PHP version required for this plugin is %1$s. You are running "
+"%2$s.\\n The minimum Woocommerce version required for this plugin is %3$s."
+"\\n The minimum WordPress version required for this plugin is %4$s."
+msgstr ""
+
+#: includes/emails/class-kdc-email-customer-remaining-payment.php:14
+msgid "This email is a notification for remaining payment completed"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows making woocommerce deposit payment."
+msgstr ""
+
+#: includes/class-kadio-cart.php:37 includes/class-kadio-cart.php:56
+#: includes/class-wc-admin.php:119 includes/class-wc-admin.php:130
+#: includes/class-wc-admin.php:257
+msgid "Yes"
+msgstr ""
+
+#: templates/deposit_remaining_message_view.php:4
+msgid "You will be charged the rest to pay"
+msgstr ""
+
+#: includes/class-kadio-deposit.php:53
+#: includes/emails/class-kdc-email-customer-remaining-payment.php:15
+msgid "Your order is being processed"
+msgstr ""
+
+#. %s: Site title
+#: templates/emails/kdc-customer-remaining-payment.php:29
+#: templates/emails/plain/kdc-customer-remaining-payment.php:27
+msgid "Your order is being processed."
+msgstr ""
